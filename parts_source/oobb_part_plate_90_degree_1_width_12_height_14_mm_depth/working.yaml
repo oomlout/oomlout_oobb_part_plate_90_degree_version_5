@@ -1,0 +1,34 @@
+classification: oobb
+color: ''
+description_extra: ''
+description_main: 1_width_12_height_14_mm_depth
+height: 12
+manufacturer: ''
+name: plate_90_degree
+oobb_details:
+  depth: 14
+  height: 12
+  oobb_name: plate_90_degree
+  thickness: 14
+  width: 1
+part_name: plate_90_degree
+part_number: ''
+size: plate_90_degree
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: plate_90_degree
+taxonomy_4: 1_width
+taxonomy_5: 12_height
+taxonomy_6: 14_mm_depth
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+thickness: 14
+type: part
+width: 1
